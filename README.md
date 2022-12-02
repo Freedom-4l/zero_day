@@ -1,1 +1,1 @@
-day zero going to be *fun*
+This file is mandatory in projects
